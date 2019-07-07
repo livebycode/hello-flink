@@ -6,6 +6,6 @@ Just a hello world flink application. Which uses inbuilt number generator as sou
 
 This application can be run within IDE  or simply build using `mvn package` and use generated jar to submit to flink cluster.
 
-Ref: [livebycode.com](http://livebycode.com)
+Ref: [https://livebycode.com/2019/06/16/hello-flink/](https://livebycode.com/2019/06/16/hello-flink/)
 
 
